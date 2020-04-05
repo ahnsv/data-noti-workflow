@@ -1,4 +1,4 @@
-name: github-action-test
+name: slack
 
 on: 
   schedule:
